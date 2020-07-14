@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 MD041 -->
 ![Photo of me](https://github.com/eventyret/eventyret/blob/master/assets/photo.jpg)
 
 ### Hey, It's Simen here
@@ -6,16 +7,12 @@ I am a Full stack Developer & Mentor. I love experimenting with new technologies
 
 - 💻 Working as a **Fullstack Developer** For [Cropdesk Technologies](https://www.cropdesk.com/).
 - 👨‍🏫 Working as a student mentor for [Code Institute](https://codeinstitute.net/)
-- 🚀Building tools for students and developers alike [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) [Bootstrap 4 CDN Snippet](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet) [Padawan](https://github.com/Eventyret/Padawan)
-- 🐳 Love docker 💙
-
-<details>
-  <summary>Some interesting facts about me!</summary>
-  <br>
-  - While Coding, Listening Music and developing useful code. ⭐️
-
+- 🦄 Creator of [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln)
+- 👨‍🎨 Creator of [Bootstrap 4 CDN Snippet](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
+- ✨ Creator of [Padawan](https://github.com/Eventyret/Padawan)
+- 🐳 Love everything with docker 💙
+- While Coding, Listening Music 🎧 🎶and developing useful code. ⭐️
 - Active trophy hunter for PS4! Gotta get those 🏆
-</details>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=eventyret&show_icons=true)
 
