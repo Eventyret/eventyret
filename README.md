@@ -1,18 +1,34 @@
-### Hi there 👋
+![Photo of me](https://github.com/eventyret/eventyret/blob/master/assets/photo.jpg)
 
-<!--
-**Eventyret/eventyret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, It's Simen here
 
-Here are some ideas to get you started:
+I am a Full stack Developer & Mentor. I love experimenting with new technologies and building small projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Working as a **Fullstack Developer** For [Cropdesk Technologies](https://www.cropdesk.com/).
+- 👨‍🏫 Working as a student mentor for [Code Institute](https://codeinstitute.net/)
+- 🚀Building tools for students and developers alike [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln) [Bootstrap 4 CDN Snippet](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet) [Padawan](https://github.com/Eventyret/Padawan)
+- 🐳 Love docker 💙
+
+<details>
+  <summary>Some interesting facts about me!</summary>
+  <br>
+  - While Coding, Listening Music and developing useful code. ⭐️
+
+- Active trophy hunter for PS4! Gotta get those 🏆
+</details>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=eventyret&show_icons=true)
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/eventyret" alt="Twitter"><img src="https://github.com/eventyret/eventyret/blob/master/assets/twitter.png"></a>
+    <a href="hhttps://www.linkedin.com/in/simendaehlin/" alt="Linkedin"><img src="https://github.com/eventyret/eventyret/blob/master/assets/linkedin.png"></a>
+    <a href="https://www.instagram.com/eventyret" alt="Instagram"><img src="https://github.com/eventyret/eventyret/blob/master/assets/insta.png"></a>
+    <a href="https://github.com/eventyret" alt="GitHub"><img src="https://github.com/eventyret/eventyret/blob/master/assets/github.png"></a>
+
+  </p>
+  
+</p>
