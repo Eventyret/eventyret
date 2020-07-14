@@ -22,7 +22,7 @@ I am a Full stack Developer & Mentor. I love experimenting with new technologies
 
   <p align="center">
     <a href="https://twitter.com/eventyret" alt="Twitter" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/twitter.png"></a>
-    <a href="hhttps://www.linkedin.com/in/simendaehlin" alt="Linkedin" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/linkedin.png"></a>
+    <a href="https://www.linkedin.com/in/simendaehlin" alt="Linkedin" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/linkedin.png"></a>
     <a href="https://www.instagram.com/eventyret" alt="Instagram" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/insta.png"></a>
     <a href="https://github.com/eventyret" alt="GitHub" target="_blank"><img src="https://github.com/eventyret/eventyret/blob/master/assets/github.png"></a>
 
