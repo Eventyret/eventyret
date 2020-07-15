@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
 </p>
-## Hey, It's Simen here
+
+## It's Simen here
 
 I am a Full stack Developer & Mentor. I love experimenting with new technologies and building small projects.
 
