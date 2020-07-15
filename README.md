@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD033 MD041 -->
-![Photo of me](https://github.com/eventyret/eventyret/blob/master/assets/photo.jpg)
+![Avatar](https://raw.githubusercontent.com/Eventyret/eventyret/master/assets/photo.png)
 
 ### Hey, It's Simen here
 
