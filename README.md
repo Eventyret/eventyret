@@ -1,13 +1,15 @@
 <!-- markdownlint-disable MD033 MD041 -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
+</p>
 
-![Photo of me](https://github.com/eventyret/eventyret/blob/master/assets/photo.jpg)
-
-### Hey you are visitor
-
+<h1 align="center">
+I'm Simen 🙋‍♂
+</h1>
 I am a Full stack Developer & Mentor. I love experimenting with new technologies and building small projects.
 
-- 💻 Working as a **Fullstack Developer** For [Cropdesk Technologies](https://www.cropdesk.com/).
-- 👨‍🏫 Working as a student mentor for [Code Institute](https://codeinstitute.net/)
+- 💻 Working as a **Fullstack Developer** for [Cropdesk Technologies](https://www.cropdesk.com/).
+- 👨‍🏫 Working as a **student mentor** for [Code Institute](https://codeinstitute.net/)
 - 🦄 Creator of [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln)
 - 👨‍🎨 Creator of [Bootstrap 4 CDN Snippet](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
 - ✨ Creator of [Padawan](https://github.com/Eventyret/Padawan)
