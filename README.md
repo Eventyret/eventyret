@@ -8,13 +8,13 @@ I'm Simen 🙋‍♂
 </h1>
 I am a Full stack Developer & Mentor. I love experimenting with new technologies and building small projects.
 
-- 💻 Working as a **Fullstack Developer** for [Cropdesk Technologies](https://www.cropdesk.com/).
-- 👨‍🏫 Working as a **student mentor** for [Code Institute](https://codeinstitute.net/)
-- 🦄 Creator of [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln)
-- 👨‍🎨 Creator of [Bootstrap 4 CDN Snippet](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
-- ✨ Creator of [Padawan](https://github.com/Eventyret/Padawan)
-- 🐳 Love everything with docker 💙
-- While Coding, Listening Music 🎧 🎶 and developing useful code. ⭐️
+- 💻  Working as a **Fullstack Developer** for [Cropdesk Technologies](https://www.cropdesk.com/).
+- 👨‍🏫  Working as a **student mentor** for [Code Institute](https://codeinstitute.net/)
+- 🦄  Creator of [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln)
+- 👨‍🎨  Creator of [Bootstrap 4 CDN Snippet](https://marketplace.visualstudio.com/items?itemName=eventyret.bootstrap-4-cdn-snippet)
+- ✨  Creator of [Padawan](https://github.com/Eventyret/Padawan)
+- 🐳  Love everything with docker 💙
+- While Coding, Listening Music  🎧 🎶  and developing useful code. ⭐️
 - Active trophy hunter for PS4! Gotta get those 🏆
 
 ### Languages I Know
