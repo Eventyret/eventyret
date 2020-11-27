@@ -30,10 +30,11 @@ I am a Full stack Developer & Mentor. I love experimenting with new technologies
 ### Libraries || Frameworks I use
 
 ![Flutter](https://img.shields.io/static/v1?label=Flutter&message=1.19&color=02569B&style=for-the-badge&logo=flutter)
-![Angular](https://img.shields.io/static/v1?label=Angular&message=10&color=E34F26&style=for-the-badge&logo=angular)
-![Strapi](https://img.shields.io/static/v1?label=Strapi&message=3.0.5&color=5744BC&style=for-the-badge&logo=strapi)
+![Angular](https://img.shields.io/static/v1?label=Angular&message=11&color=E34F26&style=for-the-badge&logo=angular)
+![Strapi](https://img.shields.io/static/v1?label=Strapi&message=3.x&color=5744BC&style=for-the-badge&logo=strapi)
 ![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.2&color=181717&logo=flask)
 ![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.0.8&color=092E20&logo=django)
+![Ionic](https://img.shields.io/static/v1?label=Ionic&style=for-the-badge&message=5&color=3880ff&logo=ionic)
 
 ### Tech I use
 
@@ -43,7 +44,10 @@ I am a Full stack Developer & Mentor. I love experimenting with new technologies
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
 ![Firebase](https://img.shields.io/static/v1?label=Firebase&style=for-the-badge&message=7.16.0&color=FFCA28&logo=firebase)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=eventyret&show_icons=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=eventyret&count_private=true&show_icons=true&hide_title=true&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eventyret&layout=compact&theme=cobalt" />
+</p>
 
 <hr>
 <p align="center">
