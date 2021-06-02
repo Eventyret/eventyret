@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **simen@dehlin.dev**
 
-- ⚡ Fun fact **Active trophy hunter for PS4! Gotta get those 🏆**
+- ⚡ Fun fact **Active trophy hunter for PS5! Gotta get those 🏆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
