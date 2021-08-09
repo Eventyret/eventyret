@@ -31,6 +31,12 @@
 
 - ⚡ Fun fact **Active trophy hunter for PS5! Gotta get those 🏆**
 
+Code repo Organised 
+| Repo Name                                            | Purpose                       |
+|------------------------------------------------------|-------------------------------|
+| [Eventyret-Training](https://github.com/organizations/eventyret-training/) | Training and practice courses |
+| [Eventyret-Flutter](https://github.com/organizations/eventyret-flutter/) | Flutter specific projects     |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://codepen.io/eventyret" target="blank"><img align="center"
