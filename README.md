@@ -1,12 +1,14 @@
 
 <div align="center">
-<img width="100%" height = "5%" src="https://i.imgur.com/jpvt1zR.jpeg" alt="cover" />
+<img width="100%" height = "5%" src="https://i.imgur.com/jnOMB6y.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Eventyret.Eventyret)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Eventyret.Eventyret)
+
+
 
 </p>
 <div size='20px'> Hi! My name is Simen <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=15x>. Thank You for taking the time to view my GitHub Profile 😊
