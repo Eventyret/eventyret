@@ -37,6 +37,12 @@ I'm a developer with a love for building websites and apps that are not just fun
 ### ✍️ Latest Blogs
 
 <!-- HASHNODE_BLOG:START -->
+- [🐳 Docker with Strapi V4 🌟](https://blog.dehlin.dev//docker-with-strapi-v4)
+- [Strapi ⭐️ V4 with Docker 🐳 and Heroku](https://blog.dehlin.dev//strapi-v4-with-docker-and-heroku)
+- [6 JS one-liners that save time.](https://blog.dehlin.dev//js-one-liners-that-save-time)
+- [CSS Experimental Overview (Chrome)](https://blog.dehlin.dev//css-experimental-overview-chrome)
+- [The VSCode Checklist](https://blog.dehlin.dev//vscode-checklist)
+- [A Day of Pull Requests](https://blog.dehlin.dev//a-day-of-pull-requests)
 <!-- HASHNODE_BLOG:END -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Find%20more%20on%20Hashnode-blue?style=for-the-badge&logo=eye&logoColor=white"/>](https://blog.dehlin.dev/)
