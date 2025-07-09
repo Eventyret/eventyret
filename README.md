@@ -1,9 +1,18 @@
 # 🧙‍♂️ Eventyret [:heart: Sponsor](https://github.com/sponsors/Eventyret)
 
 
-**`Full Stack Magician (Angular/Typescript/Docker/Strapi)`**
 
-I'm a developer with a love for building websites and apps that are not just functional, but also a pleasure to use. Angular and NodeJS are my weapons of choice, and when I'm not coding, you can find me playing around with Docker and TypeScript. I'm also part of the Strapi community, where I help build and maintain open-source projects. Oh, and I love memes too.
+**`T-shaped Developer • Chaos-Resistant Coder • Pokémon-Loving Nerd`**
+
+Hey there — I'm **Simen**, aka **Eventyret** (yes, like a fairytale). I work as a Senior Software Engineer at [Sema4.ai](https://sema4.ai), where I help build tools that make developers more powerful without adding more tabs to their browser (well, maybe just one more).
+
+I'm a **T-shaped generalist** with deep roots in **React**, **TypeScript**, **Docker**, and **frontend-focused DX** — but really, I'm happy anywhere there's a terminal, a problem to solve, or a dad joke to tell. Frameworks are tools, not religions. Code is collaboration. And if it helps someone ship with more joy and less stress? Count me in.
+
+Outside of work, I'm the creator of [**Almost Done**](https://almostdone.news) — a cozy, chaotic newsletter for neurodivergent devs who thrive in bursts, forget what they were doing, and still get things (almost) done. It’s for the ADHD-coded, AuDHD-aligned, tab-hoarding, perfection-avoiding builders of the web. We celebrate creative chaos and build systems that support real humans.
+
+Also: I love **Pokémon**, **coffee**, **open source**, and that feeling when your terminal prompt looks ✨ just right.
+
+### 🤝 Wanna Be Dev Friends?
 
    <p align="left">
       <a href="https://github.com/Eventyret?tab=followers">
@@ -14,26 +23,26 @@ I'm a developer with a love for building websites and apps that are not just fun
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 The Toolbox of Holding
 
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" />
+<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" />
+<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" />
 <br />
 
-#
-
-### ✍️ Latest Blogs
+### ✍️ Bloggity Blogs
 
 <!-- HASHNODE_BLOG:START -->
 - [🐳 Docker with Strapi V4 🌟](https://blog.dehlin.dev//docker-with-strapi-v4)
@@ -48,22 +57,28 @@ I'm a developer with a love for building websites and apps that are not just fun
 
 #
 
-### 📊 Stats
+### 📈 Stat Potion Activated
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=eventyret&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Eventyret&theme=gruvbox&border_radius=4.5) -->
 
-#
 
 <details>
- <summary><h3>👨‍💻 Simen's Coding Journey</h3></summary>
- I started my coding journey as a freelance web developer. Working for my self part time growing my business DigitalFairytales / Fairytales.dev
- From there I taken a bootcamp and upskilled to become who I am today. I have worked for a few companies and now I am working for a company called Luno.
- I also work part time as a mentor 🧑‍🏫 for Code Insistute teaching new people how to become developers themself. Looking them grow over the course of a year.
- I have a big passion for Strapi ⭐️ and recently became a Strapi Community Star ⭐️🙌
- I have built some projects and tools that are open source so feel free to check out my pinned Repos below for some of them.
+  <summary><h3>📜 The Lore of Simen</h3></summary>
+  <br />
+   
+  Once upon a localhost, I started as a freelance dev under **DigitalFairytales** (later **Fairytales.dev**).
 
+  Since then:
+
+  - 🧑‍🏫 Mentored devs at Code Institute to help them level up IRL
+  - 🐋 Dockerized things that probably didn’t need Docker (but hey, it worked)
+  - 🌟 Became a **Strapi Community Star**
+  - 🧵 Built [Almost Done](https://almostdone.news) — for neurodivergent devs who build weird things and call it progress
+
+  These days, I’m building tools, writing stories, and poking AI into being more helpful at [Sema4.ai](https://sema4.ai).
+</details>
 
 [website]: https://dehlin.dev
    
