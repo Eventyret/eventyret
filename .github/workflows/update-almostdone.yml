@@ -1,0 +1,92 @@
+name: Update Almost Done Issues
+
+on:
+  schedule:
+    # Runs every Tuesday at 09:00 UTC
+    - cron: "0 9 * * 2"
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "18"
+
+      - name: Fetch Almost Done Issues
+        run: |
+          # Fetch issues from API
+          curl -s "https://almostdone.news/api/issues?limit=10" > issues.json
+
+          # Create update script
+          cat > update_readme.js << 'EOF'
+          const fs = require('fs');
+          const issues = JSON.parse(fs.readFileSync('issues.json', 'utf8'));
+
+          // Filter issues that are at least 7 days old from their public release date
+          const oneWeekAgo = new Date();
+          oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+
+          const olderIssues = issues.docs
+            .filter(issue => {
+              const releaseDate = new Date(issue.publicReleaseDate);
+              return releaseDate <= oneWeekAgo;
+            })
+            .slice(0, 5); // Show max 5 issues
+
+          // Format issues for README
+          const formattedIssues = olderIssues.map(issue => {
+            const releaseDate = new Date(issue.publicReleaseDate);
+            const formattedDate = releaseDate.toLocaleDateString('en-US', { 
+              month: 'short', 
+              day: 'numeric',
+              year: 'numeric'
+            });
+            return `- [${issue.title}](https://almostdone.news/issues/${issue.slug}) • ${issue.readingTime} • ${formattedDate}`;
+          }).join('\n');
+
+          // Read current README
+          const readme = fs.readFileSync('README.md', 'utf8');
+
+          // Update README between comments
+          const startMarker = '<!-- ALMOSTDONE_ISSUES:START -->';
+          const endMarker = '<!-- ALMOSTDONE_ISSUES:END -->';
+
+          const beforeMarker = readme.substring(0, readme.indexOf(startMarker) + startMarker.length);
+          const afterMarker = readme.substring(readme.indexOf(endMarker));
+
+          const newContent = formattedIssues.length > 0 
+            ? formattedIssues 
+            : '*Weekly insights for neurodivergent developers will appear here*';
+
+          const updatedReadme = beforeMarker + '\n' + newContent + '\n' + afterMarker;
+
+          // Write updated README
+          fs.writeFileSync('README.md', updatedReadme);
+          EOF
+
+          node update_readme.js
+
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "📖 Update Almost Done issues"
+          git push

@@ -1,16 +1,10 @@
 # 🧙‍♂️ Eventyret [:heart: Sponsor](https://github.com/sponsors/Eventyret)
 
+**`Senior Software Engineer • T-Shaped Developer • Creator of Almost Done`**
 
+Hey there — I'm **Simen**, aka **Eventyret** (yes, like a fairytale). I'm a Senior Software Engineer on the platform team at [Sema4.ai](https://sema4.ai), where I work on the backend infrastructure and DevOps that powers their enterprise AI agent platform.
 
-**`T-shaped Developer • Chaos-Resistant Coder • Pokémon-Loving Nerd`**
-
-Hey there — I'm **Simen**, aka **Eventyret** (yes, like a fairytale). I work as a Senior Software Engineer at [Sema4.ai](https://sema4.ai), where I help build tools that make developers more powerful without adding more tabs to their browser (well, maybe just one more).
-
-I'm a **T-shaped generalist** with deep roots in **React**, **TypeScript**, **Docker**, and **frontend-focused DX** — but really, I'm happy anywhere there's a terminal, a problem to solve, or a dad joke to tell. Frameworks are tools, not religions. Code is collaboration. And if it helps someone ship with more joy and less stress? Count me in.
-
-Outside of work, I'm the creator of [**Almost Done**](https://almostdone.news) — a cozy, chaotic newsletter for neurodivergent devs who thrive in bursts, forget what they were doing, and still get things (almost) done. It’s for the ADHD-coded, AuDHD-aligned, tab-hoarding, perfection-avoiding builders of the web. We celebrate creative chaos and build systems that support real humans.
-
-Also: I love **Pokémon**, **coffee**, **open source**, and that feeling when your terminal prompt looks ✨ just right.
+But here's the thing about me: **I think code should be fun, collaborative, and a little bit magical.** I love diving deep into complex technical problems, mentoring other developers, and building the robust systems that make other people's brilliant ideas actually work. Also, I have strong opinions about terminal setups and will absolutely geek out about Docker optimization with you.
 
 ### 🤝 Wanna Be Dev Friends?
 
@@ -23,7 +17,32 @@ Also: I love **Pokémon**, **coffee**, **open source**, and that feeling when yo
 
 ---
 
-### 🧰 The Toolbox of Holding
+## 🧵 My Side Quest: Almost Done
+
+While building platform infrastructure for enterprise AI agents by day, I also created and run [**Almost Done**](https://almostdone.news) — a weekly newsletter for neurodivergent developers. What started as "maybe I should write about my chaotic dev process" has grown into a community of 500+ developers who celebrate creative problem-solving and build systems that actually work with their brains.
+
+**The tech behind it**: Next.js, PayloadCMS, TypeScript, Docker — because even side projects deserve good architecture.
+
+**Why it matters**: It turns out a lot of developers think in beautiful, non-linear ways. Some of our best solutions come from those weird tangents everyone tells you to avoid.
+
+### 📖 Recent Issues
+
+<!-- ALMOSTDONE_ISSUES:START -->
+
+- [The Joy of Little Dev Experiments](https://almostdone.news/issues/the-joy-of-little-dev-experiments) • 4 min • Jul 15, 2025
+- [Git Happens – Surviving Merge Hell With a Neurodivergent Brain](https://almostdone.news/issues/git-happens-surviving-merge-hell-with-a-neurodivergent-brain) • 5 min • Jul 8, 2025
+- [Half a Thousand Devs Walk Into a Newsletter...](https://almostdone.news/issues/half-a-thousand-devs-walk-into-a-newsletter) • 4 min • Jul 1, 2025
+- [T-Shaped? I'm More Like a Wiggly Octopus](https://almostdone.news/issues/t-shaped-im-more-like-a-wiggly-octopus) • 4 min • Jun 24, 2025
+- [Deadline? I Thought You Said Lifeline](https://almostdone.news/issues/deadline-i-thought-you-said-lifeline) • 6 min • Jun 17, 2025
+<!-- ALMOSTDONE_ISSUES:END -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Almost%20Done-green?style=for-the-badge&logo=rocket&logoColor=white"/>](https://almostdone.news)
+
+---
+
+## 🧰 How I Build Things
+
+I'm a **T-shaped generalist** who loves getting deep into **backend systems**, **DevOps**, **Docker**, and **platform engineering**. But honestly? I'm happiest when there's a gnarly infrastructure problem to solve, a terminal to work in, and maybe a good dad joke to share along the way.
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg" />
@@ -42,9 +61,49 @@ Also: I love **Pokémon**, **coffee**, **open source**, and that feeling when yo
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" />
 <br />
 
-### ✍️ Bloggity Blogs
+### 🧠 My Technical Philosophy
+
+**Frameworks are tools, not religions.** I choose tech based on what solves the actual problem, not what looks good on a resume.
+
+**Infrastructure should be invisible.** If the platform team is doing our job right, the developers building on top of it shouldn't have to think about it.
+
+**Embrace the tangents.** Some of my best solutions have come from those "wait, what if we..." moments that good engineering managers pretend to discourage but secretly love.
+
+**Community > competition.** The best code happens when diverse minds collaborate. That's why I spend time mentoring, writing, and building spaces for developers who think differently.
+
+---
+
+## 📜 The Adventure So Far
+
+Once upon a localhost, I started as a freelance dev under **DigitalFairytales** (later **Fairytales.dev**). The fairytale theme wasn't just cute branding — it was hope. Every project felt like an adventure where the ending wasn't guaranteed, but the journey was always worth it.
+
+Since then, my quest log includes:
+
+- 🧑‍🏫 **Mentored 100+ developers** at Code Institute, helping career changers navigate their first steps in tech
+- 🐋 **Architected containerized solutions** (sometimes over-engineered, but hey, they were beautifully over-engineered)
+- 🌟 Earned **Strapi Community Star** recognition for being helpful and only slightly chaotic
+- 🛠️ Built **platform infrastructure** at [Sema4.ai](https://sema4.ai) that powers enterprise AI agent workflows at scale
+- 🧵 Grew [**Almost Done**](https://almostdone.news) from zero to 500+ subscribers who appreciate creative chaos
+
+**Plot twist**: Learning that my ADHD brain's "creative tangents" aren't bugs to fix — they're features to leverage. Those weird detours often lead to the most elegant solutions.
+
+> _"Some of the best code comes from the weirdest tangents."_ — A lesson learned from years of "quick fixes" that became breakthrough features.
+
+### 💼 What I'm Really Good At
+
+- **Platform Engineering**: Building the reliable infrastructure that lets other developers focus on the fun stuff
+- **Backend Systems**: Creating scalable, maintainable server-side architectures
+- **DevOps & CI/CD**: Making deployment and operations something you don't dread
+- **Containerization**: Docker, orchestration, and making things run consistently everywhere
+- **Mentoring**: Helping developers level up without burning out
+- **Community Building**: Creating spaces where different kinds of minds can thrive
+
+---
+
+### ✍️ Things I Write About
 
 <!-- HASHNODE_BLOG:START -->
+
 - [🐳 Docker with Strapi V4 🌟](https://blog.dehlin.dev//docker-with-strapi-v4)
 - [Strapi ⭐️ V4 with Docker 🐳 and Heroku](https://blog.dehlin.dev//strapi-v4-with-docker-and-heroku)
 - [6 JS one-liners that save time.](https://blog.dehlin.dev//js-one-liners-that-save-time)
@@ -53,33 +112,23 @@ Also: I love **Pokémon**, **coffee**, **open source**, and that feeling when yo
 - [A Day of Pull Requests](https://blog.dehlin.dev//a-day-of-pull-requests)
 <!-- HASHNODE_BLOG:END -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Find%20more%20on%20Hashnode-blue?style=for-the-badge&logo=eye&logoColor=white"/>](https://blog.dehlin.dev/)
+_More technical deep-dives and tutorials at [blog.dehlin.dev](https://blog.dehlin.dev)_
 
-#
+### 📈 GitHub Stats
 
-### 📈 Stat Potion Activated
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=eventyret&show_icons=true&theme=gruvbox)
+![Simen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eventyret&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Eventyret&theme=gruvbox&border_radius=4.5) -->
 
+---
 
-<details>
-  <summary><h3>📜 The Lore of Simen</h3></summary>
-  <br />
-   
-  Once upon a localhost, I started as a freelance dev under **DigitalFairytales** (later **Fairytales.dev**).
+## 💌 Let's Build Something Together
 
-  Since then:
+- 🌐 **Website**: [dehlin.dev](https://dehlin.dev)
+- 💼 **LinkedIn**: For professional networking and career adventures
+- 📧 **Newsletter**: [Almost Done](https://almostdone.news) — Join the beautifully chaotic dev community
+- 🐦 **Social**: Building weird stuff in public across the internet
 
-  - 🧑‍🏫 Mentored devs at Code Institute to help them level up IRL
-  - 🐋 Dockerized things that probably didn’t need Docker (but hey, it worked)
-  - 🌟 Became a **Strapi Community Star**
-  - 🧵 Built [Almost Done](https://almostdone.news) — for neurodivergent devs who build weird things and call it progress
+**Open to**: Consulting, mentoring, speaking at conferences, and any project that makes developers' lives more fun.
 
-  These days, I’m building tools, writing stories, and poking AI into being more helpful at [Sema4.ai](https://sema4.ai).
-</details>
-
-[website]: https://dehlin.dev
-   
-
+_P.S. — When I'm not coding, you'll find me playing Pokémon, tweaking my terminal theme for the 47th time, or explaining to my family why Docker is actually pretty cool._ ✨
