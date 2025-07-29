@@ -28,12 +28,11 @@ While building platform infrastructure for enterprise AI agents by day, I also c
 ### 📖 Recent Issues
 
 <!-- ALMOSTDONE_ISSUES:START -->
-
+- [Infinite Loop, Baby](https://almostdone.news/issues/infinite-loop-baby) • 5 min • Jul 22, 2025
 - [The Joy of Little Dev Experiments](https://almostdone.news/issues/the-joy-of-little-dev-experiments) • 4 min • Jul 15, 2025
 - [Git Happens – Surviving Merge Hell With a Neurodivergent Brain](https://almostdone.news/issues/git-happens-surviving-merge-hell-with-a-neurodivergent-brain) • 5 min • Jul 8, 2025
 - [Half a Thousand Devs Walk Into a Newsletter...](https://almostdone.news/issues/half-a-thousand-devs-walk-into-a-newsletter) • 4 min • Jul 1, 2025
-- [T-Shaped? I'm More Like a Wiggly Octopus](https://almostdone.news/issues/t-shaped-im-more-like-a-wiggly-octopus) • 4 min • Jun 24, 2025
-- [Deadline? I Thought You Said Lifeline](https://almostdone.news/issues/deadline-i-thought-you-said-lifeline) • 6 min • Jun 17, 2025
+- [T-Shaped? I’m More Like a Wiggly Octopus](https://almostdone.news/issues/t-shaped-im-more-like-a-wiggly-octopus) • 4 min • Jun 24, 2025
 <!-- ALMOSTDONE_ISSUES:END -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Almost%20Done-green?style=for-the-badge&logo=rocket&logoColor=white"/>](https://almostdone.news)
