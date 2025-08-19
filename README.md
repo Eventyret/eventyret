@@ -28,11 +28,11 @@ While building platform infrastructure for enterprise AI agents by day, I also c
 ### 📖 Recent Issues
 
 <!-- ALMOSTDONE_ISSUES:START -->
+- [Trust Issues with My AI Rubber Duck](https://almostdone.news/issues/trust-issues-with-my-ai-rubber-duck) • 6 min • Aug 12, 2025
 - [TypeScript Is My Noise Canceling Headphones](https://almostdone.news/issues/typescript-is-my-noise-canceling-headphones) • 5 min • Aug 5, 2025
 - [404: Motivation Not Found](https://almostdone.news/issues/404-motivation-not-found) • 4 min • Jul 29, 2025
 - [Infinite Loop, Baby](https://almostdone.news/issues/infinite-loop-baby) • 5 min • Jul 22, 2025
 - [The Joy of Little Dev Experiments](https://almostdone.news/issues/the-joy-of-little-dev-experiments) • 4 min • Jul 15, 2025
-- [Git Happens – Surviving Merge Hell With a Neurodivergent Brain](https://almostdone.news/issues/git-happens-surviving-merge-hell-with-a-neurodivergent-brain) • 5 min • Jul 8, 2025
 <!-- ALMOSTDONE_ISSUES:END -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Almost%20Done-green?style=for-the-badge&logo=rocket&logoColor=white"/>](https://almostdone.news)
