@@ -28,11 +28,11 @@ While building platform infrastructure for enterprise AI agents by day, I also c
 ### 📖 Recent Issues
 
 <!-- ALMOSTDONE_ISSUES:START -->
+- [Oops, We Forgot](https://almostdone.news/issues/oops-we-forgot) • 3 min • Sep 23, 2025
 - [Rubber Ducks and Tea Mugs](https://almostdone.news/issues/rubber-ducks-and-tea-mugs) • 5 min • Sep 16, 2025
 - [Brain in a box: Contain ideas not just apps](https://almostdone.news/issues/brain-in-a-box-contain-ideas-not-just-apps) • 5 min • Sep 9, 2025
 - [Rejected by Review](https://almostdone.news/issues/rejected-by-review) • 4 min • Sep 2, 2025
 - [Tutorial Purgatory](https://almostdone.news/issues/tutorial-purgatory) • 5 min • Aug 26, 2025
-- [PING! …and My Soul Left My Body](https://almostdone.news/issues/ping-and-my-soul-left-my-body) • 4 min • Aug 19, 2025
 <!-- ALMOSTDONE_ISSUES:END -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Almost%20Done-green?style=for-the-badge&logo=rocket&logoColor=white"/>](https://almostdone.news)
