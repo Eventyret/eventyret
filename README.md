@@ -28,11 +28,11 @@ While building platform infrastructure for enterprise AI agents by day, I also c
 ### 📖 Recent Issues
 
 <!-- ALMOSTDONE_ISSUES:START -->
+- [Please Hold](https://almostdone.news/issues/please-hold) • 5 min • Nov 24, 2025
 - [If Statement Energy](https://almostdone.news/issues/if-statement-energy) • 5 min • Nov 17, 2025
 - [Choose Your Own Adventure](https://almostdone.news/issues/choose-your-own-adventure) • 4 min • Nov 10, 2025
 - [Error 503: Motivation Temporarily Unavailable](https://almostdone.news/issues/error-503-motivation-temporarily-unavailable) • 4 min • Nov 3, 2025
 - [The Half-Done Project](https://almostdone.news/issues/the-half-done-project) • 6 min • Oct 14, 2025
-- [99 Problems but a Config Ain’t One](https://almostdone.news/issues/99-problems-but-a-config-aint-one) • 3 min • Oct 7, 2025
 <!-- ALMOSTDONE_ISSUES:END -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Almost%20Done-green?style=for-the-badge&logo=rocket&logoColor=white"/>](https://almostdone.news)
