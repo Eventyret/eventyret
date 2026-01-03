@@ -1,133 +1,138 @@
-# 🧙‍♂️ Eventyret [:heart: Sponsor](https://github.com/sponsors/Eventyret)
+# ✨ Eventyret 🧙‍♂️
 
-**`Senior Software Engineer • T-Shaped Developer • Creator of Almost Done`**
+**Fractal CTO • Senior Software Engineer • Founder of DigitalFairytales**
 
-Hey there — I'm **Simen**, aka **Eventyret** (yes, like a fairytale). I'm a Senior Software Engineer on the platform team at [Sema4.ai](https://sema4.ai), where I work on the backend infrastructure and DevOps that powers their enterprise AI agent platform.
+Hello, I’m **Simen**, also known as **Eventyret**. The name means “fairytale”, and it fits more than you might expect.
 
-But here's the thing about me: **I think code should be fun, collaborative, and a little bit magical.** I love diving deep into complex technical problems, mentoring other developers, and building the robust systems that make other people's brilliant ideas actually work. Also, I have strong opinions about terminal setups and will absolutely geek out about Docker optimization with you.
+I work for myself, currently balancing contract work with an open eye toward the next permanent chapter. I operate as a **Fractal CTO**: zoomed out on technical direction when needed, zoomed all the way in when the work calls for hands-on engineering. I’m deeply T-shaped, curious by default, and happiest when I’m allowed to tinker, simplify, and make systems feel humane again.
 
-### 🤝 Wanna Be Dev Friends?
+My studio is **DigitalFairytales**.
 
-   <p align="left">
-      <a href="https://github.com/Eventyret?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Eventyret?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Eventyret?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Eventyret?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+Soft magic. Sharp systems.
 
----
+I help founders and teams who are carrying too many tabs open, in the browser and in the brain. I design and build calm, clever systems that quietly support the story they’re trying to tell.
 
-## 🧵 My Side Quest: Almost Done
-
-While building platform infrastructure for enterprise AI agents by day, I also created and run [**Almost Done**](https://almostdone.news) — a weekly newsletter for neurodivergent developers. What started as "maybe I should write about my chaotic dev process" has grown into a community of 500+ developers who celebrate creative problem-solving and build systems that actually work with their brains.
-
-**The tech behind it**: Next.js, PayloadCMS, TypeScript, Docker — because even side projects deserve good architecture.
-
-**Why it matters**: It turns out a lot of developers think in beautiful, non-linear ways. Some of our best solutions come from those weird tangents everyone tells you to avoid.
-
-### 📖 Recent Issues
-
-<!-- ALMOSTDONE_ISSUES:START -->
-- [Please Hold](https://almostdone.news/issues/please-hold) • 5 min • Nov 24, 2025
-- [If Statement Energy](https://almostdone.news/issues/if-statement-energy) • 5 min • Nov 17, 2025
-- [Choose Your Own Adventure](https://almostdone.news/issues/choose-your-own-adventure) • 4 min • Nov 10, 2025
-- [Error 503: Motivation Temporarily Unavailable](https://almostdone.news/issues/error-503-motivation-temporarily-unavailable) • 4 min • Nov 3, 2025
-- [The Half-Done Project](https://almostdone.news/issues/the-half-done-project) • 6 min • Oct 14, 2025
-<!-- ALMOSTDONE_ISSUES:END -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Join%20Almost%20Done-green?style=for-the-badge&logo=rocket&logoColor=white"/>](https://almostdone.news)
+I also keep a macOS-inspired portfolio at **[dehlin.dev](https://dehlin.dev)**. It’s part playground, part craft showcase, and a love letter to thoughtful interfaces and small delightful details.
 
 ---
 
-## 🧰 How I Build Things
+## 🪄 What I Actually Do ✨
 
-I'm a **T-shaped generalist** who loves getting deep into **backend systems**, **DevOps**, **Docker**, and **platform engineering**. But honestly? I'm happiest when there's a gnarly infrastructure problem to solve, a terminal to work in, and maybe a good dad joke to share along the way.
+I tend to describe my work like this:
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/react/react-original.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-plain.svg" />
-<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" />
-<img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flask/flask-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bash/bash-original.svg" />
-<br />
+* **Technical Direction**: Fractional CTO work, architecture decisions, long-term thinking
+* **Engineering Firepower**: Senior software engineering, platform and backend systems, DevOps
+* **AI Sprinkles**: Thoughtful automation that removes friction without adding chaos
 
-### 🧠 My Technical Philosophy
-
-**Frameworks are tools, not religions.** I choose tech based on what solves the actual problem, not what looks good on a resume.
-
-**Infrastructure should be invisible.** If the platform team is doing our job right, the developers building on top of it shouldn't have to think about it.
-
-**Embrace the tangents.** Some of my best solutions have come from those "wait, what if we..." moments that good engineering managers pretend to discourage but secretly love.
-
-**Community > competition.** The best code happens when diverse minds collaborate. That's why I spend time mentoring, writing, and building spaces for developers who think differently.
+The goal is always the same: fewer manual loops, fewer late nights, and systems that feel like they’re on your side.
 
 ---
 
-## 📜 The Adventure So Far
+## 🧵 Side Quest: Almost Done 📬
 
-Once upon a localhost, I started as a freelance dev under **DigitalFairytales** (later **Fairytales.dev**). The fairytale theme wasn't just cute branding — it was hope. Every project felt like an adventure where the ending wasn't guaranteed, but the journey was always worth it.
+Alongside client work, I write and run [**Almost Done**](https://almostdone.news), a weekly newsletter for neurodivergent developers.
 
-Since then, my quest log includes:
+If you enjoy thoughtful engineering, gentle productivity, and honest writing about how real brains build real systems, you might like it. It’s a quiet corner of the internet for developers who don’t quite fit the linear mold.
 
-- 🧑‍🏫 **Mentored 100+ developers** at Code Institute, helping career changers navigate their first steps in tech
-- 🐋 **Architected containerized solutions** (sometimes over-engineered, but hey, they were beautifully over-engineered)
-- 🌟 Earned **Strapi Community Star** recognition for being helpful and only slightly chaotic
-- 🛠️ Built **platform infrastructure** at [Sema4.ai](https://sema4.ai) that powers enterprise AI agent workflows at scale
-- 🧵 Grew [**Almost Done**](https://almostdone.news) from zero to 500+ subscribers who appreciate creative chaos
+Almost Done is about:
 
-**Plot twist**: Learning that my ADHD brain's "creative tangents" aren't bugs to fix — they're features to leverage. Those weird detours often lead to the most elegant solutions.
+* gentle productivity
+* creative problem-solving
+* accepting that non-linear thinking is often a feature, not a bug
 
-> _"Some of the best code comes from the weirdest tangents."_ — A lesson learned from years of "quick fixes" that became breakthrough features.
-
-### 💼 What I'm Really Good At
-
-- **Platform Engineering**: Building the reliable infrastructure that lets other developers focus on the fun stuff
-- **Backend Systems**: Creating scalable, maintainable server-side architectures
-- **DevOps & CI/CD**: Making deployment and operations something you don't dread
-- **Containerization**: Docker, orchestration, and making things run consistently everywhere
-- **Mentoring**: Helping developers level up without burning out
-- **Community Building**: Creating spaces where different kinds of minds can thrive
+The same philosophy I bring to engineering shows up here too: calm structure, room to breathe, and no shame.
 
 ---
 
-### ✍️ Things I Write About
+## 🧰 How I Build 🎩
 
-<!-- HASHNODE_BLOG:START -->
+I don’t really separate frontend, backend, and infrastructure in my head. I think in **experiences**, just for different audiences.
 
-- [🐳 Docker with Strapi V4 🌟](https://blog.dehlin.dev//docker-with-strapi-v4)
-- [Strapi ⭐️ V4 with Docker 🐳 and Heroku](https://blog.dehlin.dev//strapi-v4-with-docker-and-heroku)
-- [6 JS one-liners that save time.](https://blog.dehlin.dev//js-one-liners-that-save-time)
-- [CSS Experimental Overview (Chrome)](https://blog.dehlin.dev//css-experimental-overview-chrome)
-- [The VSCode Checklist](https://blog.dehlin.dev//vscode-checklist)
-- [A Day of Pull Requests](https://blog.dehlin.dev//a-day-of-pull-requests)
-<!-- HASHNODE_BLOG:END -->
+For users, frontend is a kind of stage magic. Smooth transitions, clear intent, and interfaces that feel obvious without explaining themselves. UI and UX are where trust is built quietly.
 
-_More technical deep-dives and tutorials at [blog.dehlin.dev](https://blog.dehlin.dev)_
+For developers, backend and DevOps are the same kind of magic. Automation, good defaults, and strong DX so people actually *want* to build on top of the system.
 
-### 📈 GitHub Stats
+What that looks like in practice:
 
-![Simen's GitHub stats](https://github-readme-stats.vercel.app/api?username=eventyret&show_icons=true&theme=gruvbox)
+* crafting frontends that feel calm, fast, and intentional
+* designing APIs and backend systems that are predictable and boring in the best way
+* building DevOps and automation that remove friction instead of adding ceremony
+* obsessing just enough over DX so future developers don’t resent past decisions
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Eventyret&theme=gruvbox&border_radius=4.5) -->
+I enjoy Docker, CI/CD, automation, frontend polish, and terminals that feel like home. I choose tools based on the problem in front of me, not trends or tribal loyalties.
+
+**Tools I often reach for:**
+
+<p align="left">
+  <img alt="TypeScript" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img alt="JavaScript" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="React" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+     <img alt="Bun" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg"" />
+  <img alt="Next.js" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img alt="Node.js" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img alt="Docker" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+  <img alt="Linux" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+  <img alt="Git" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+</p>
 
 ---
 
-## 💌 Let's Build Something Together
+## 🧠 A Few Beliefs I Build By 🔮
 
-- 🌐 **Website**: [dehlin.dev](https://dehlin.dev)
-- 💼 **LinkedIn**: For professional networking and career adventures
-- 📧 **Newsletter**: [Almost Done](https://almostdone.news) — Join the beautifully chaotic dev community
-- 🐦 **Social**: Building weird stuff in public across the internet
+* Frameworks are tools, not identities
+* Infrastructure should fade into the background
+* Tangents are often signals, not distractions
+* Calm systems create better work
+* Community beats competition
 
-**Open to**: Consulting, mentoring, speaking at conferences, and any project that makes developers' lives more fun.
+Some of my best solutions have come from a detour that looked unproductive right up until it wasn’t.
 
-_P.S. — When I'm not coding, you'll find me playing Pokémon, tweaking my terminal theme for the 47th time, or explaining to my family why Docker is actually pretty cool._ ✨
+---
+
+## 📜 The Adventure So Far 📖
+
+I’ve worked across freelance, product, and platform contexts, and I’ve spent years contributing to open-source ecosystems. I’ve been part of the **Strapi** community since 2018, building tools, helping users, and collaborating with teams who care deeply about craft.
+
+Along the way, I’ve:
+
+* mentored developers finding their footing in tech
+* built and maintained containerised systems
+* contributed to and supported open-source projects
+* helped teams move from fragile setups to calm platforms
+* grown a writing community around creative, neurodivergent engineering
+
+A notable chapter was creating and maintaining [**strapi-tool-dockerize**](https://github.com/strapi-community/strapi-tool-dockerize), a community tool that helped shape how many teams containerised Strapi projects. That work made me well-known within the Strapi ecosystem and cemented my love for open-source collaboration and practical tooling.
+
+One important plot twist: learning that an ADHD brain doesn’t need fixing. It needs the right environment. When systems are designed with humanity in mind, creativity turns into leverage.
+
+---
+
+## 💼 What I’m Good At 🛠️
+
+* Fractal CTO work and technical direction
+* Frontend engineering with a strong UX sensibility
+* Platform and backend engineering
+* DevOps, CI/CD, and automation
+* Designing for developer experience (DX)
+* Mentoring and knowledge sharing
+* Turning complex systems into something people enjoy using
+
+---
+
+## ✍️ Writing 📝
+
+I write about backend systems, automation, Docker, developer workflows, and the emotional side of building software. Technical depth, without forgetting the humans doing the work.
+
+---
+
+## 💌 Let’s Build 🤝
+
+I’m open to:
+
+* permanent roles
+* contract and fractional work
+* collaborations with thoughtful teams
+
+If you value calm infrastructure, clear thinking, and software that respects human brains, we’ll probably get along.
+
+When I’m not coding, I’m usually tinkering with automations, tweaking my terminal for the 47th time, or explaining to someone why Docker is actually quite nice once it clicks.
